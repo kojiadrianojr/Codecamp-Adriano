@@ -24,7 +24,7 @@ __________________________________________________________
 //Expressjs <br />
 🐶 npm install express --save <br />
 
-//Migrations
+//Migrations  <br />
 🐶 npm install node-pg-migrate pg --save <br />
 🦴 npm run migrate (up/down) <br />
 🦴 npm run migrate create [tablename] -> creating table <br />
