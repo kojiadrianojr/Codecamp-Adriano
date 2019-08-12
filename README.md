@@ -5,16 +5,22 @@
 
 
 👵 --- Requirement --- 👵
-
+🐶 sqltabs
 🐶 Nodemon
 🐶 Nodejs
 🐶 git
 🐶 nps -npm tool
 
+//open package.json and this to script
+🦴 "migrate": "node-pg-migrate"
+
 👵 ------------------- 👵
 
+👵 setup docker-compose.yml
+👵 create a file config/default.json 
 
-Frontend
+
+BACKEND
 __________________________________________________________
 // Track dependencies
 🦴 npm init -y 
