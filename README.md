@@ -1,44 +1,43 @@
-🐶 --> Dependencies  
-🦴 --> Commands
-👵 --> Reminders
+🐶 --> Dependencies   
+🦴 --> Commands   
+👵 --> Reminders  
 
 
 
-👵 --- Requirement --- 👵
+👵 --- Requirement --- 👵 <br />
 
-🐶 Nodemon
-🐶 Nodejs
-🐶 git
-🐶 nps -npm tool
+🐶 Nodemon <br />
+🐶 Nodejs <br />
+🐶 git  <br />
+🐶 nps -npm tool  <br />
 
-👵 ------------------- 👵
-
+👵 --- Requirement --- 👵<br />
 
 Frontend
 __________________________________________________________
-// Track dependencies
-🦴 npm init -y 
+// Track dependencies <br />
+🦴 npm init -y  <br />
 
-//Dockerjs
-🐶 npm install docker --save
+//Dockerjs <br />
+🐶 npm install docker --save <br />
 
-//Expressjs
-🐶 npm install express --save
+//Expressjs <br />
+🐶 npm install express --save <br />
 
-//Migrations
-🐶 npm install node-pg-migrate pg --save
-🦴 npm run migrate (up/down)
-🦴 npm run migrate create [tablename] -> creating table
+//Migrations  <br />
+🐶 npm install node-pg-migrate pg --save <br />
+🦴 npm run migrate (up/down) <br />
+🦴 npm run migrate create [tablename] -> creating table <br />
 
-//argon2
-🐶 npm install argon2 --save
+//argon2 <br />
+🐶 npm install argon2 --save <br />
+ <br />
+//massivjs <br />
+🐶 npm install massive --save <br />
 
-//massivjs
-🐶 npm install massive --save
+//jwt <br />
+🐶 npm install --save jsonwebtoken <br />
 
-//jwt
-🐶 npm install --save jsonwebtoken
-
-//cors
-🐶 npm install cors --save 
+//cors <br />
+🐶 npm install cors --save  <br />
 
