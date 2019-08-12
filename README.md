@@ -1,6 +1,6 @@
 🐶 --> Dependencies   
-🦴 --> Commands 
-👵 --> Reminders 
+🦴 --> Commands   
+👵 --> Reminders  
 
 
 
